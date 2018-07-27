@@ -13,7 +13,7 @@ ms.date: 05/03/2018
 
 _This article covers the steps required to implement SiriKit support in a Xamarin.iOS apps._
 
-New to iOS 10, SiriKit allows a Xamarin.iOS app to provide services that are accessible to the user using Siri and the Maps app on an iOS device. This article covers the steps required to implement SiriKit support in the Xamarin.iOS apps by adding the required Intents Extensions, Intents UI Extensions and Vocabulary.
+New to iOS 12, SiriKit allows a Xamarin.iOS app to provide services that are accessible to the user using Siri and the Maps app on an iOS device. This article covers the steps required to implement SiriKit support in the Xamarin.iOS apps by adding the required Intents Extensions, Intents UI Extensions and Vocabulary.
 
 Siri works with the concept of **Domains**, groups of know actions for related tasks. Each interaction that the app has with Siri must fall into one of its known service Domains as follows:
 
